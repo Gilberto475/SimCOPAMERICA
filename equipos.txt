@@ -1,0 +1,55 @@
+# Grupo A
+Argentina vs Canada:Mercedez Benz Stadium
+Peru vs Chile:AT&T Stadium
+;
+
+Peru vs Canada:Sporting Park
+Chile vs Argentina:MetLife Stadium
+;
+
+Argentina vs Peru:Hard Rock Stadium
+Canada vs Chile:Orlando City Stadium
+
+;
+
+
+
+# Grupo B
+
+Mexico vs Jamaica:Estadio NRG
+Ecuador vs Venezuela:Levís Stadium
+;
+
+Ecuador vs Jamaica :Allegiant Stadium
+Venezuela vs Mexico:Estadio SoFi
+;
+
+Mexico vs Ecuador :Estadio de la Universidad de Phoenix
+Jamaica vs Venezuela:Q2 Stadium
+;
+
+# Grupo C
+
+Estados Unidos vs Bolivia :AT&T Stadium
+Uruguay vs Panama:Hard Rock Stadium
+;
+
+Panama vs Estados Unidos:Mercedez Benz Stadium
+Uruguay vs Bolivia:MetLife Stadium
+;
+Bolivia vs Panama:Orlando City Stadium
+Estados Unidos vs Uruguay:Arrowhead Stadium
+
+;
+# Grupo D
+Colombia vs Paraguay:Estadio NRG
+Brasil vs Costa Rica :Estadio SoFi
+;
+
+Colombia vs Costa Rica:Estadio Universidad de Phoenix
+Paraguay vs Brasil:Allegiant Stadium
+
+;
+
+Brasil vs Colombia:Levís Stadium
+Costa Rica vs Paraguay:Q2 Stadium
